@@ -1,0 +1,921 @@
+Date,Year,Month,State,Production,Status Data
+1/1/2014,2014,Jan,Johor,890,f
+1/2/2014,2014,Feb,Johor,744,f
+1/3/2014,2014,Mar,Johor,378,f
+1/4/2014,2014,Apr,Johor,376,f
+1/5/2014,2014,May,Johor,503,f
+1/6/2014,2014,Jun,Johor,670,f
+1/7/2014,2014,Jul,Johor,672,f
+1/8/2014,2014,Aug,Johor,669,f
+1/9/2014,2014,Sep,Johor,796,f
+1/10/2014,2014,Oct,Johor,686,f
+1/11/2014,2014,Nov,Johor,559,f
+1/12/2014,2014,Dec,Johor,600,f
+1/1/2014,2014,Jan,Kedah & Perlis,1282,f
+1/2/2014,2014,Feb,Kedah & Perlis,895,f
+1/3/2014,2014,Mar,Kedah & Perlis,589,f
+1/4/2014,2014,Apr,Kedah & Perlis,550,f
+1/5/2014,2014,May,Kedah & Perlis,849,f
+1/6/2014,2014,Jun,Kedah & Perlis,1156,f
+1/7/2014,2014,Jul,Kedah & Perlis,1238,f
+1/8/2014,2014,Aug,Kedah & Perlis,1150,f
+1/9/2014,2014,Sep,Kedah & Perlis,1268,f
+1/10/2014,2014,Oct,Kedah & Perlis,1059,f
+1/11/2014,2014,Nov,Kedah & Perlis,1397,f
+1/12/2014,2014,Dec,Kedah & Perlis,1162,f
+1/1/2014,2014,Jan,Kelantan & Terengganu,489,f
+1/2/2014,2014,Feb,Kelantan & Terengganu,727,f
+1/3/2014,2014,Mar,Kelantan & Terengganu,377,f
+1/4/2014,2014,Apr,Kelantan & Terengganu,284,f
+1/5/2014,2014,May,Kelantan & Terengganu,376,f
+1/6/2014,2014,Jun,Kelantan & Terengganu,497,f
+1/7/2014,2014,Jul,Kelantan & Terengganu,477,f
+1/8/2014,2014,Aug,Kelantan & Terengganu,521,f
+1/9/2014,2014,Sep,Kelantan & Terengganu,582,f
+1/10/2014,2014,Oct,Kelantan & Terengganu,446,f
+1/11/2014,2014,Nov,Kelantan & Terengganu,381,f
+1/12/2014,2014,Dec,Kelantan & Terengganu,288,f
+1/1/2014,2014,Jan,Melaka & Negeri Sembilan,1372,f
+1/2/2014,2014,Feb,Melaka & Negeri Sembilan,1280,f
+1/3/2014,2014,Mar,Melaka & Negeri Sembilan,564,f
+1/4/2014,2014,Apr,Melaka & Negeri Sembilan,483,f
+1/5/2014,2014,May,Melaka & Negeri Sembilan,824,f
+1/6/2014,2014,Jun,Melaka & Negeri Sembilan,1248,f
+1/7/2014,2014,Jul,Melaka & Negeri Sembilan,1170,f
+1/8/2014,2014,Aug,Melaka & Negeri Sembilan,1242,f
+1/9/2014,2014,Sep,Melaka & Negeri Sembilan,1297,f
+1/10/2014,2014,Oct,Melaka & Negeri Sembilan,952,f
+1/11/2014,2014,Nov,Melaka & Negeri Sembilan,1025,f
+1/12/2014,2014,Dec,Melaka & Negeri Sembilan,1044,f
+1/1/2014,2014,Jan,Pahang,775,f
+1/2/2014,2014,Feb,Pahang,808,f
+1/3/2014,2014,Mar,Pahang,332,f
+1/4/2014,2014,Apr,Pahang,318,f
+1/5/2014,2014,May,Pahang,484,f
+1/6/2014,2014,Jun,Pahang,722,f
+1/7/2014,2014,Jul,Pahang,707,f
+1/8/2014,2014,Aug,Pahang,786,f
+1/9/2014,2014,Sep,Pahang,747,f
+1/10/2014,2014,Oct,Pahang,597,f
+1/11/2014,2014,Nov,Pahang,759,f
+1/12/2014,2014,Dec,Pahang,531,f
+1/1/2014,2014,Jan,Perak,868,f
+1/2/2014,2014,Feb,Perak,653,f
+1/3/2014,2014,Mar,Perak,558,f
+1/4/2014,2014,Apr,Perak,273,f
+1/5/2014,2014,May,Perak,393,f
+1/6/2014,2014,Jun,Perak,700,f
+1/7/2014,2014,Jul,Perak,808,f
+1/8/2014,2014,Aug,Perak,710,f
+1/9/2014,2014,Sep,Perak,766,f
+1/10/2014,2014,Oct,Perak,696,f
+1/11/2014,2014,Nov,Perak,634,f
+1/12/2014,2014,Dec,Perak,692,f
+1/1/2014,2014,Jan,Selangor,218,f
+1/2/2014,2014,Feb,Selangor,219,f
+1/3/2014,2014,Mar,Selangor,100,f
+1/4/2014,2014,Apr,Selangor,129,f
+1/5/2014,2014,May,Selangor,164,f
+1/6/2014,2014,Jun,Selangor,259,f
+1/7/2014,2014,Jul,Selangor,260,f
+1/8/2014,2014,Aug,Selangor,216,f
+1/9/2014,2014,Sep,Selangor,242,f
+1/10/2014,2014,Oct,Selangor,124,f
+1/11/2014,2014,Nov,Selangor,136,f
+1/12/2014,2014,Dec,Selangor,242,f
+1/1/2014,2014,Jan,Sabah & Sarawak,2,f
+1/2/2014,2014,Feb,Sabah & Sarawak,3,f
+1/3/2014,2014,Mar,Sabah & Sarawak,3,f
+1/4/2014,2014,Apr,Sabah & Sarawak,3,f
+1/5/2014,2014,May,Sabah & Sarawak,3,f
+1/6/2014,2014,Jun,Sabah & Sarawak,4,f
+1/7/2014,2014,Jul,Sabah & Sarawak,6,f
+1/8/2014,2014,Aug,Sabah & Sarawak,6,f
+1/9/2014,2014,Sep,Sabah & Sarawak,8,f
+1/10/2014,2014,Oct,Sabah & Sarawak,7,f
+1/11/2014,2014,Nov,Sabah & Sarawak,5,f
+1/12/2014,2014,Dec,Sabah & Sarawak,6,f
+1/1/2015,2015,Jan,Johor,754,f
+1/2/2015,2015,Feb,Johor,688,f
+1/3/2015,2015,Mar,Johor,483,f
+1/4/2015,2015,Apr,Johor,332,f
+1/5/2015,2015,May,Johor,357,f
+1/6/2015,2015,Jun,Johor,517,f
+1/7/2015,2015,Jul,Johor,577,f
+1/8/2015,2015,Aug,Johor,694,f
+1/9/2015,2015,Sep,Johor,723,f
+1/10/2015,2015,Oct,Johor,807,f
+1/11/2015,2015,Nov,Johor,607,f
+1/12/2015,2015,Dec,Johor,694,f
+1/1/2015,2015,Jan,Kedah & Perlis,1803,f
+1/2/2015,2015,Feb,Kedah & Perlis,1244,f
+1/3/2015,2015,Mar,Kedah & Perlis,826,f
+1/4/2015,2015,Apr,Kedah & Perlis,744,f
+1/5/2015,2015,May,Kedah & Perlis,1068,f
+1/6/2015,2015,Jun,Kedah & Perlis,1348,f
+1/7/2015,2015,Jul,Kedah & Perlis,997,f
+1/8/2015,2015,Aug,Kedah & Perlis,1372,f
+1/9/2015,2015,Sep,Kedah & Perlis,1309,f
+1/10/2015,2015,Oct,Kedah & Perlis,1498,f
+1/11/2015,2015,Nov,Kedah & Perlis,1282,f
+1/12/2015,2015,Dec,Kedah & Perlis,1965,f
+1/1/2015,2015,Jan,Kelantan & Terengganu,243,f
+1/2/2015,2015,Feb,Kelantan & Terengganu,587,f
+1/3/2015,2015,Mar,Kelantan & Terengganu,484,f
+1/4/2015,2015,Apr,Kelantan & Terengganu,310,f
+1/5/2015,2015,May,Kelantan & Terengganu,326,f
+1/6/2015,2015,Jun,Kelantan & Terengganu,520,f
+1/7/2015,2015,Jul,Kelantan & Terengganu,481,f
+1/8/2015,2015,Aug,Kelantan & Terengganu,606,f
+1/9/2015,2015,Sep,Kelantan & Terengganu,645,f
+1/10/2015,2015,Oct,Kelantan & Terengganu,678,f
+1/11/2015,2015,Nov,Kelantan & Terengganu,492,f
+1/12/2015,2015,Dec,Kelantan & Terengganu,596,f
+1/1/2015,2015,Jan,Melaka & Negeri Sembilan,1205,f
+1/2/2015,2015,Feb,Melaka & Negeri Sembilan,1182,f
+1/3/2015,2015,Mar,Melaka & Negeri Sembilan,736,f
+1/4/2015,2015,Apr,Melaka & Negeri Sembilan,452,f
+1/5/2015,2015,May,Melaka & Negeri Sembilan,612,f
+1/6/2015,2015,Jun,Melaka & Negeri Sembilan,1006,f
+1/7/2015,2015,Jul,Melaka & Negeri Sembilan,1055,f
+1/8/2015,2015,Aug,Melaka & Negeri Sembilan,1047,f
+1/9/2015,2015,Sep,Melaka & Negeri Sembilan,1158,f
+1/10/2015,2015,Oct,Melaka & Negeri Sembilan,1272,f
+1/11/2015,2015,Nov,Melaka & Negeri Sembilan,567,f
+1/12/2015,2015,Dec,Melaka & Negeri Sembilan,1107,f
+1/1/2015,2015,Jan,Pahang,711,f
+1/2/2015,2015,Feb,Pahang,794,f
+1/3/2015,2015,Mar,Pahang,566,f
+1/4/2015,2015,Apr,Pahang,297,f
+1/5/2015,2015,May,Pahang,362,f
+1/6/2015,2015,Jun,Pahang,597,f
+1/7/2015,2015,Jul,Pahang,710,f
+1/8/2015,2015,Aug,Pahang,664,f
+1/9/2015,2015,Sep,Pahang,766,f
+1/10/2015,2015,Oct,Pahang,733,f
+1/11/2015,2015,Nov,Pahang,512,f
+1/12/2015,2015,Dec,Pahang,781,f
+1/1/2015,2015,Jan,Perak,793,f
+1/2/2015,2015,Feb,Perak,737,f
+1/3/2015,2015,Mar,Perak,372,f
+1/4/2015,2015,Apr,Perak,303,f
+1/5/2015,2015,May,Perak,402,f
+1/6/2015,2015,Jun,Perak,539,f
+1/7/2015,2015,Jul,Perak,641,f
+1/8/2015,2015,Aug,Perak,629,f
+1/9/2015,2015,Sep,Perak,663,f
+1/10/2015,2015,Oct,Perak,608,f
+1/11/2015,2015,Nov,Perak,405,f
+1/12/2015,2015,Dec,Perak,669,f
+1/1/2015,2015,Jan,Selangor,266,f
+1/2/2015,2015,Feb,Selangor,243,f
+1/3/2015,2015,Mar,Selangor,194,f
+1/4/2015,2015,Apr,Selangor,158,f
+1/5/2015,2015,May,Selangor,203,f
+1/6/2015,2015,Jun,Selangor,200,f
+1/7/2015,2015,Jul,Selangor,253,f
+1/8/2015,2015,Aug,Selangor,232,f
+1/9/2015,2015,Sep,Selangor,233,f
+1/10/2015,2015,Oct,Selangor,220,f
+1/11/2015,2015,Nov,Selangor,164,f
+1/12/2015,2015,Dec,Selangor,205,f
+1/1/2015,2015,Jan,Sabah & Sarawak,6,f
+1/2/2015,2015,Feb,Sabah & Sarawak,42,f
+1/3/2015,2015,Mar,Sabah & Sarawak,46,f
+1/4/2015,2015,Apr,Sabah & Sarawak,8,f
+1/5/2015,2015,May,Sabah & Sarawak,9,f
+1/6/2015,2015,Jun,Sabah & Sarawak,9,f
+1/7/2015,2015,Jul,Sabah & Sarawak,1,f
+1/8/2015,2015,Aug,Sabah & Sarawak,1,f
+1/9/2015,2015,Sep,Sabah & Sarawak,5,f
+1/10/2015,2015,Oct,Sabah & Sarawak,5,f
+1/11/2015,2015,Nov,Sabah & Sarawak,4,f
+1/12/2015,2015,Dec,Sabah & Sarawak,4,f
+1/1/2016,2016,Jan,Johor,759,f
+1/2/2016,2016,Feb,Johor,576,f
+1/3/2016,2016,Mar,Johor,599,f
+1/4/2016,2016,Apr,Johor,335,f
+1/5/2016,2016,May,Johor,256,f
+1/6/2016,2016,Jun,Johor,384,f
+1/7/2016,2016,Jul,Johor,548,f
+1/8/2016,2016,Aug,Johor,709,f
+1/9/2016,2016,Sep,Johor,683,f
+1/10/2016,2016,Oct,Johor,678,f
+1/11/2016,2016,Nov,Johor,601,f
+1/12/2016,2016,Dec,Johor,635,f
+1/1/2016,2016,Jan,Kedah & Perlis,1585,f
+1/2/2016,2016,Feb,Kedah & Perlis,994,f
+1/3/2016,2016,Mar,Kedah & Perlis,845,f
+1/4/2016,2016,Apr,Kedah & Perlis,826,f
+1/5/2016,2016,May,Kedah & Perlis,893,f
+1/6/2016,2016,Jun,Kedah & Perlis,1323,f
+1/7/2016,2016,Jul,Kedah & Perlis,1127,f
+1/8/2016,2016,Aug,Kedah & Perlis,1488,f
+1/9/2016,2016,Sep,Kedah & Perlis,1190,f
+1/10/2016,2016,Oct,Kedah & Perlis,1269,f
+1/11/2016,2016,Nov,Kedah & Perlis,1290,f
+1/12/2016,2016,Dec,Kedah & Perlis,1453,f
+1/1/2016,2016,Jan,Kelantan & Terengganu,901,f
+1/2/2016,2016,Feb,Kelantan & Terengganu,714,f
+1/3/2016,2016,Mar,Kelantan & Terengganu,757,f
+1/4/2016,2016,Apr,Kelantan & Terengganu,350,f
+1/5/2016,2016,May,Kelantan & Terengganu,332,f
+1/6/2016,2016,Jun,Kelantan & Terengganu,542,f
+1/7/2016,2016,Jul,Kelantan & Terengganu,635,f
+1/8/2016,2016,Aug,Kelantan & Terengganu,972,f
+1/9/2016,2016,Sep,Kelantan & Terengganu,778,f
+1/10/2016,2016,Oct,Kelantan & Terengganu,981,f
+1/11/2016,2016,Nov,Kelantan & Terengganu,679,f
+1/12/2016,2016,Dec,Kelantan & Terengganu,611,f
+1/1/2016,2016,Jan,Melaka & Negeri Sembilan,996,f
+1/2/2016,2016,Feb,Melaka & Negeri Sembilan,789,f
+1/3/2016,2016,Mar,Melaka & Negeri Sembilan,751,f
+1/4/2016,2016,Apr,Melaka & Negeri Sembilan,425,f
+1/5/2016,2016,May,Melaka & Negeri Sembilan,409,f
+1/6/2016,2016,Jun,Melaka & Negeri Sembilan,793,f
+1/7/2016,2016,Jul,Melaka & Negeri Sembilan,749,f
+1/8/2016,2016,Aug,Melaka & Negeri Sembilan,985,f
+1/9/2016,2016,Sep,Melaka & Negeri Sembilan,956,f
+1/10/2016,2016,Oct,Melaka & Negeri Sembilan,883,f
+1/11/2016,2016,Nov,Melaka & Negeri Sembilan,610,f
+1/12/2016,2016,Dec,Melaka & Negeri Sembilan,760,f
+1/1/2016,2016,Jan,Pahang,771,f
+1/2/2016,2016,Feb,Pahang,595,f
+1/3/2016,2016,Mar,Pahang,478,f
+1/4/2016,2016,Apr,Pahang,268,f
+1/5/2016,2016,May,Pahang,330,f
+1/6/2016,2016,Jun,Pahang,525,f
+1/7/2016,2016,Jul,Pahang,639,f
+1/8/2016,2016,Aug,Pahang,690,f
+1/9/2016,2016,Sep,Pahang,607,f
+1/10/2016,2016,Oct,Pahang,588,f
+1/11/2016,2016,Nov,Pahang,494,f
+1/12/2016,2016,Dec,Pahang,565,f
+1/1/2016,2016,Jan,Perak,570,f
+1/2/2016,2016,Feb,Perak,328,f
+1/3/2016,2016,Mar,Perak,239,f
+1/4/2016,2016,Apr,Perak,193,f
+1/5/2016,2016,May,Perak,261,f
+1/6/2016,2016,Jun,Perak,442,f
+1/7/2016,2016,Jul,Perak,496,f
+1/8/2016,2016,Aug,Perak,593,f
+1/9/2016,2016,Sep,Perak,540,f
+1/10/2016,2016,Oct,Perak,549,f
+1/11/2016,2016,Nov,Perak,531,f
+1/12/2016,2016,Dec,Perak,602,f
+1/1/2016,2016,Jan,Selangor,232,f
+1/2/2016,2016,Feb,Selangor,168,f
+1/3/2016,2016,Mar,Selangor,128,f
+1/4/2016,2016,Apr,Selangor,120,f
+1/5/2016,2016,May,Selangor,134,f
+1/6/2016,2016,Jun,Selangor,219,f
+1/7/2016,2016,Jul,Selangor,241,f
+1/8/2016,2016,Aug,Selangor,330,f
+1/9/2016,2016,Sep,Selangor,276,f
+1/10/2016,2016,Oct,Selangor,266,f
+1/11/2016,2016,Nov,Selangor,251,f
+1/12/2016,2016,Dec,Selangor,319,f
+1/1/2016,2016,Jan,Sabah & Sarawak,6,f
+1/2/2016,2016,Feb,Sabah & Sarawak,8,f
+1/3/2016,2016,Mar,Sabah & Sarawak,10,f
+1/4/2016,2016,Apr,Sabah & Sarawak,8,f
+1/5/2016,2016,May,Sabah & Sarawak,6,f
+1/6/2016,2016,Jun,Sabah & Sarawak,1,f
+1/7/2016,2016,Jul,Sabah & Sarawak,3,f
+1/8/2016,2016,Aug,Sabah & Sarawak,1,f
+1/9/2016,2016,Sep,Sabah & Sarawak,3,f
+1/10/2016,2016,Oct,Sabah & Sarawak,4,f
+1/11/2016,2016,Nov,Sabah & Sarawak,3,f
+1/12/2016,2016,Dec,Sabah & Sarawak,2,f
+1/1/2017,2017,Jan,Johor,610,f
+1/2/2017,2017,Feb,Johor,617,f
+1/3/2017,2017,Mar,Johor,618,f
+1/4/2017,2017,Apr,Johor,521,f
+1/5/2017,2017,May,Johor,391,f
+1/6/2017,2017,Jun,Johor,386,f
+1/7/2017,2017,Jul,Johor,540,f
+1/8/2017,2017,Aug,Johor,478,f
+1/9/2017,2017,Sep,Johor,561,f
+1/10/2017,2017,Oct,Johor,543,f
+1/11/2017,2017,Nov,Johor,521,f
+1/12/2017,2017,Dec,Johor,574,f
+1/1/2017,2017,Jan,Kedah & Perlis,1249,f
+1/2/2017,2017,Feb,Kedah & Perlis,1435,f
+1/3/2017,2017,Mar,Kedah & Perlis,701,f
+1/4/2017,2017,Apr,Kedah & Perlis,424,f
+1/5/2017,2017,May,Kedah & Perlis,863,f
+1/6/2017,2017,Jun,Kedah & Perlis,1089,f
+1/7/2017,2017,Jul,Kedah & Perlis,1415,f
+1/8/2017,2017,Aug,Kedah & Perlis,988,f
+1/9/2017,2017,Sep,Kedah & Perlis,847,f
+1/10/2017,2017,Oct,Kedah & Perlis,1540,f
+1/11/2017,2017,Nov,Kedah & Perlis,977,f
+1/12/2017,2017,Dec,Kedah & Perlis,1618,f
+1/1/2017,2017,Jan,Kelantan & Terengganu,428,f
+1/2/2017,2017,Feb,Kelantan & Terengganu,881,f
+1/3/2017,2017,Mar,Kelantan & Terengganu,928,f
+1/4/2017,2017,Apr,Kelantan & Terengganu,447,f
+1/5/2017,2017,May,Kelantan & Terengganu,408,f
+1/6/2017,2017,Jun,Kelantan & Terengganu,387,f
+1/7/2017,2017,Jul,Kelantan & Terengganu,646,f
+1/8/2017,2017,Aug,Kelantan & Terengganu,784,f
+1/9/2017,2017,Sep,Kelantan & Terengganu,594,f
+1/10/2017,2017,Oct,Kelantan & Terengganu,841,f
+1/11/2017,2017,Nov,Kelantan & Terengganu,627,f
+1/12/2017,2017,Dec,Kelantan & Terengganu,676,f
+1/1/2017,2017,Jan,Melaka & Negeri Sembilan,664,f
+1/2/2017,2017,Feb,Melaka & Negeri Sembilan,825,f
+1/3/2017,2017,Mar,Melaka & Negeri Sembilan,792,f
+1/4/2017,2017,Apr,Melaka & Negeri Sembilan,564,f
+1/5/2017,2017,May,Melaka & Negeri Sembilan,572,f
+1/6/2017,2017,Jun,Melaka & Negeri Sembilan,637,f
+1/7/2017,2017,Jul,Melaka & Negeri Sembilan,685,f
+1/8/2017,2017,Aug,Melaka & Negeri Sembilan,511,f
+1/9/2017,2017,Sep,Melaka & Negeri Sembilan,652,f
+1/10/2017,2017,Oct,Melaka & Negeri Sembilan,656,f
+1/11/2017,2017,Nov,Melaka & Negeri Sembilan,622,f
+1/12/2017,2017,Dec,Melaka & Negeri Sembilan,802,f
+1/1/2017,2017,Jan,Pahang,415,f
+1/2/2017,2017,Feb,Pahang,586,f
+1/3/2017,2017,Mar,Pahang,552,f
+1/4/2017,2017,Apr,Pahang,359,f
+1/5/2017,2017,May,Pahang,308,f
+1/6/2017,2017,Jun,Pahang,403,f
+1/7/2017,2017,Jul,Pahang,584,f
+1/8/2017,2017,Aug,Pahang,490,f
+1/9/2017,2017,Sep,Pahang,414,f
+1/10/2017,2017,Oct,Pahang,403,f
+1/11/2017,2017,Nov,Pahang,474,f
+1/12/2017,2017,Dec,Pahang,480,f
+1/1/2017,2017,Jan,Perak,429,f
+1/2/2017,2017,Feb,Perak,470,f
+1/3/2017,2017,Mar,Perak,328,f
+1/4/2017,2017,Apr,Perak,160,f
+1/5/2017,2017,May,Perak,224,f
+1/6/2017,2017,Jun,Perak,328,f
+1/7/2017,2017,Jul,Perak,526,f
+1/8/2017,2017,Aug,Perak,482,f
+1/9/2017,2017,Sep,Perak,321,f
+1/10/2017,2017,Oct,Perak,508,f
+1/11/2017,2017,Nov,Perak,367,f
+1/12/2017,2017,Dec,Perak,508,f
+1/1/2017,2017,Jan,Selangor,314,f
+1/2/2017,2017,Feb,Selangor,345,f
+1/3/2017,2017,Mar,Selangor,215,f
+1/4/2017,2017,Apr,Selangor,140,f
+1/5/2017,2017,May,Selangor,240,f
+1/6/2017,2017,Jun,Selangor,305,f
+1/7/2017,2017,Jul,Selangor,367,f
+1/8/2017,2017,Aug,Selangor,407,f
+1/9/2017,2017,Sep,Selangor,380,f
+1/10/2017,2017,Oct,Selangor,446,f
+1/11/2017,2017,Nov,Selangor,407,f
+1/12/2017,2017,Dec,Selangor,445,f
+1/1/2017,2017,Jan,Sabah & Sarawak,2,f
+1/2/2017,2017,Feb,Sabah & Sarawak,2,f
+1/3/2017,2017,Mar,Sabah & Sarawak,3,f
+1/4/2017,2017,Apr,Sabah & Sarawak,3,f
+1/5/2017,2017,May,Sabah & Sarawak,6,f
+1/6/2017,2017,Jun,Sabah & Sarawak,4,f
+1/7/2017,2017,Jul,Sabah & Sarawak,8,f
+1/8/2017,2017,Aug,Sabah & Sarawak,6,f
+1/9/2017,2017,Sep,Sabah & Sarawak,5,f
+1/10/2017,2017,Oct,Sabah & Sarawak,6,f
+1/11/2017,2017,Nov,Sabah & Sarawak,7,f
+1/12/2017,2017,Dec,Sabah & Sarawak,5,f
+1/1/2018,2018,Jan,Johor,449,f
+1/2/2018,2018,Feb,Johor,546,f
+1/3/2018,2018,Mar,Johor,394,f
+1/4/2018,2018,Apr,Johor,296,f
+1/5/2018,2018,May,Johor,325,f
+1/6/2018,2018,Jun,Johor,444,f
+1/7/2018,2018,Jul,Johor,692,f
+1/8/2018,2018,Aug,Johor,687,f
+1/9/2018,2018,Sep,Johor,579,f
+1/10/2018,2018,Oct,Johor,572,f
+1/11/2018,2018,Nov,Johor,492,f
+1/12/2018,2018,Dec,Johor,578,f
+1/1/2018,2018,Jan,Kedah & Perlis,1460,f
+1/2/2018,2018,Feb,Kedah & Perlis,1413,f
+1/3/2018,2018,Mar,Kedah & Perlis,638,f
+1/4/2018,2018,Apr,Kedah & Perlis,692,f
+1/5/2018,2018,May,Kedah & Perlis,647,f
+1/6/2018,2018,Jun,Kedah & Perlis,1006,f
+1/7/2018,2018,Jul,Kedah & Perlis,1436,f
+1/8/2018,2018,Aug,Kedah & Perlis,1291,f
+1/9/2018,2018,Sep,Kedah & Perlis,944,f
+1/10/2018,2018,Oct,Kedah & Perlis,981,f
+1/11/2018,2018,Nov,Kedah & Perlis,1597,f
+1/12/2018,2018,Dec,Kedah & Perlis,1395,f
+1/1/2018,2018,Jan,Kelantan & Terengganu,697,f
+1/2/2018,2018,Feb,Kelantan & Terengganu,872,f
+1/3/2018,2018,Mar,Kelantan & Terengganu,500,f
+1/4/2018,2018,Apr,Kelantan & Terengganu,407,f
+1/5/2018,2018,May,Kelantan & Terengganu,440,f
+1/6/2018,2018,Jun,Kelantan & Terengganu,512,f
+1/7/2018,2018,Jul,Kelantan & Terengganu,900,f
+1/8/2018,2018,Aug,Kelantan & Terengganu,956,f
+1/9/2018,2018,Sep,Kelantan & Terengganu,777,f
+1/10/2018,2018,Oct,Kelantan & Terengganu,885,f
+1/11/2018,2018,Nov,Kelantan & Terengganu,727,f
+1/12/2018,2018,Dec,Kelantan & Terengganu,520,f
+1/1/2018,2018,Jan,Melaka & Negeri Sembilan,555,f
+1/2/2018,2018,Feb,Melaka & Negeri Sembilan,898,f
+1/3/2018,2018,Mar,Melaka & Negeri Sembilan,619,f
+1/4/2018,2018,Apr,Melaka & Negeri Sembilan,352,f
+1/5/2018,2018,May,Melaka & Negeri Sembilan,365,f
+1/6/2018,2018,Jun,Melaka & Negeri Sembilan,537,f
+1/7/2018,2018,Jul,Melaka & Negeri Sembilan,789,f
+1/8/2018,2018,Aug,Melaka & Negeri Sembilan,839,f
+1/9/2018,2018,Sep,Melaka & Negeri Sembilan,648,f
+1/10/2018,2018,Oct,Melaka & Negeri Sembilan,695,f
+1/11/2018,2018,Nov,Melaka & Negeri Sembilan,483,f
+1/12/2018,2018,Dec,Melaka & Negeri Sembilan,716,f
+1/1/2018,2018,Jan,Pahang,419,f
+1/2/2018,2018,Feb,Pahang,562,f
+1/3/2018,2018,Mar,Pahang,368,f
+1/4/2018,2018,Apr,Pahang,284,f
+1/5/2018,2018,May,Pahang,339,f
+1/6/2018,2018,Jun,Pahang,389,f
+1/7/2018,2018,Jul,Pahang,571,f
+1/8/2018,2018,Aug,Pahang,521,f
+1/9/2018,2018,Sep,Pahang,453,f
+1/10/2018,2018,Oct,Pahang,452,f
+1/11/2018,2018,Nov,Pahang,412,f
+1/12/2018,2018,Dec,Pahang,610,f
+1/1/2018,2018,Jan,Perak,377,f
+1/2/2018,2018,Feb,Perak,350,f
+1/3/2018,2018,Mar,Perak,235,f
+1/4/2018,2018,Apr,Perak,155,f
+1/5/2018,2018,May,Perak,272,f
+1/6/2018,2018,Jun,Perak,318,f
+1/7/2018,2018,Jul,Perak,468,f
+1/8/2018,2018,Aug,Perak,480,f
+1/9/2018,2018,Sep,Perak,329,f
+1/10/2018,2018,Oct,Perak,342,f
+1/11/2018,2018,Nov,Perak,479,f
+1/12/2018,2018,Dec,Perak,507,f
+1/1/2018,2018,Jan,Selangor,540,f
+1/2/2018,2018,Feb,Selangor,625,f
+1/3/2018,2018,Mar,Selangor,340,f
+1/4/2018,2018,Apr,Selangor,341,f
+1/5/2018,2018,May,Selangor,390,f
+1/6/2018,2018,Jun,Selangor,517,f
+1/7/2018,2018,Jul,Selangor,937,f
+1/8/2018,2018,Aug,Selangor,794,f
+1/9/2018,2018,Sep,Selangor,1307,f
+1/10/2018,2018,Oct,Selangor,467,f
+1/11/2018,2018,Nov,Selangor,556,f
+1/12/2018,2018,Dec,Selangor,547,f
+1/1/2018,2018,Jan,Sabah & Sarawak,220,f
+1/2/2018,2018,Feb,Sabah & Sarawak,189,f
+1/3/2018,2018,Mar,Sabah & Sarawak,283,f
+1/4/2018,2018,Apr,Sabah & Sarawak,175,f
+1/5/2018,2018,May,Sabah & Sarawak,80,f
+1/6/2018,2018,Jun,Sabah & Sarawak,373,f
+1/7/2018,2018,Jul,Sabah & Sarawak,627,f
+1/8/2018,2018,Aug,Sabah & Sarawak,501,f
+1/9/2018,2018,Sep,Sabah & Sarawak,108,f
+1/10/2018,2018,Oct,Sabah & Sarawak,140,f
+1/11/2018,2018,Nov,Sabah & Sarawak,274,f
+1/12/2018,2018,Dec,Sabah & Sarawak,188,f
+1/1/2019,2019,Jan,Johor,747,f
+1/2/2019,2019,Feb,Johor,550,f
+1/3/2019,2019,Mar,Johor,319,f
+1/4/2019,2019,Apr,Johor,263,f
+1/5/2019,2019,May,Johor,321,f
+1/6/2019,2019,Jun,Johor,536,f
+1/7/2019,2019,Jul,Johor,752,f
+1/8/2019,2019,Aug,Johor,771,f
+1/9/2019,2019,Sep,Johor,730,f
+1/10/2019,2019,Oct,Johor,603,f
+1/11/2019,2019,Nov,Johor,634,f
+1/12/2019,2019,Dec,Johor,626,f
+1/1/2019,2019,Jan,Kedah & Perlis,1631,f
+1/2/2019,2019,Feb,Kedah & Perlis,1015,f
+1/3/2019,2019,Mar,Kedah & Perlis,541,f
+1/4/2019,2019,Apr,Kedah & Perlis,651,f
+1/5/2019,2019,May,Kedah & Perlis,783,f
+1/6/2019,2019,Jun,Kedah & Perlis,950,f
+1/7/2019,2019,Jul,Kedah & Perlis,1327,f
+1/8/2019,2019,Aug,Kedah & Perlis,1158,f
+1/9/2019,2019,Sep,Kedah & Perlis,1411,f
+1/10/2019,2019,Oct,Kedah & Perlis,956,f
+1/11/2019,2019,Nov,Kedah & Perlis,1499,f
+1/12/2019,2019,Dec,Kedah & Perlis,1640,f
+1/1/2019,2019,Jan,Kelantan & Terengganu,1884,f
+1/2/2019,2019,Feb,Kelantan & Terengganu,1394,f
+1/3/2019,2019,Mar,Kelantan & Terengganu,1071,f
+1/4/2019,2019,Apr,Kelantan & Terengganu,1058,f
+1/5/2019,2019,May,Kelantan & Terengganu,849,f
+1/6/2019,2019,Jun,Kelantan & Terengganu,813,f
+1/7/2019,2019,Jul,Kelantan & Terengganu,1206,f
+1/8/2019,2019,Aug,Kelantan & Terengganu,1254,f
+1/9/2019,2019,Sep,Kelantan & Terengganu,1389,f
+1/10/2019,2019,Oct,Kelantan & Terengganu,1417,f
+1/11/2019,2019,Nov,Kelantan & Terengganu,1115,f
+1/12/2019,2019,Dec,Kelantan & Terengganu,1264,f
+1/1/2019,2019,Jan,Melaka & Negeri Sembilan,867,f
+1/2/2019,2019,Feb,Melaka & Negeri Sembilan,670,f
+1/3/2019,2019,Mar,Melaka & Negeri Sembilan,317,f
+1/4/2019,2019,Apr,Melaka & Negeri Sembilan,239,f
+1/5/2019,2019,May,Melaka & Negeri Sembilan,489,f
+1/6/2019,2019,Jun,Melaka & Negeri Sembilan,526,f
+1/7/2019,2019,Jul,Melaka & Negeri Sembilan,833,f
+1/8/2019,2019,Aug,Melaka & Negeri Sembilan,767,f
+1/9/2019,2019,Sep,Melaka & Negeri Sembilan,705,f
+1/10/2019,2019,Oct,Melaka & Negeri Sembilan,523,f
+1/11/2019,2019,Nov,Melaka & Negeri Sembilan,573,f
+1/12/2019,2019,Dec,Melaka & Negeri Sembilan,795,f
+1/1/2019,2019,Jan,Pahang,587,f
+1/2/2019,2019,Feb,Pahang,482,f
+1/3/2019,2019,Mar,Pahang,268,f
+1/4/2019,2019,Apr,Pahang,315,f
+1/5/2019,2019,May,Pahang,297,f
+1/6/2019,2019,Jun,Pahang,314,f
+1/7/2019,2019,Jul,Pahang,476,f
+1/8/2019,2019,Aug,Pahang,493,f
+1/9/2019,2019,Sep,Pahang,477,f
+1/10/2019,2019,Oct,Pahang,394,f
+1/11/2019,2019,Nov,Pahang,426,f
+1/12/2019,2019,Dec,Pahang,419,f
+1/1/2019,2019,Jan,Perak,565,f
+1/2/2019,2019,Feb,Perak,301,f
+1/3/2019,2019,Mar,Perak,208,f
+1/4/2019,2019,Apr,Perak,182,f
+1/5/2019,2019,May,Perak,230,f
+1/6/2019,2019,Jun,Perak,277,f
+1/7/2019,2019,Jul,Perak,457,f
+1/8/2019,2019,Aug,Perak,448,f
+1/9/2019,2019,Sep,Perak,437,f
+1/10/2019,2019,Oct,Perak,260,f
+1/11/2019,2019,Nov,Perak,340,f
+1/12/2019,2019,Dec,Perak,358,f
+1/1/2019,2019,Jan,Selangor,884,f
+1/2/2019,2019,Feb,Selangor,468,f
+1/3/2019,2019,Mar,Selangor,319,f
+1/4/2019,2019,Apr,Selangor,270,f
+1/5/2019,2019,May,Selangor,534,f
+1/6/2019,2019,Jun,Selangor,528,f
+1/7/2019,2019,Jul,Selangor,767,f
+1/8/2019,2019,Aug,Selangor,614,f
+1/9/2019,2019,Sep,Selangor,668,f
+1/10/2019,2019,Oct,Selangor,255,f
+1/11/2019,2019,Nov,Selangor,503,f
+1/12/2019,2019,Dec,Selangor,622,f
+1/1/2019,2019,Jan,Sabah & Sarawak,260,f
+1/2/2019,2019,Feb,Sabah & Sarawak,194,f
+1/3/2019,2019,Mar,Sabah & Sarawak,341,f
+1/4/2019,2019,Apr,Sabah & Sarawak,272,f
+1/5/2019,2019,May,Sabah & Sarawak,52,f
+1/6/2019,2019,Jun,Sabah & Sarawak,60,f
+1/7/2019,2019,Jul,Sabah & Sarawak,224,f
+1/8/2019,2019,Aug,Sabah & Sarawak,344,f
+1/9/2019,2019,Sep,Sabah & Sarawak,358,f
+1/10/2019,2019,Oct,Sabah & Sarawak,344,f
+1/11/2019,2019,Nov,Sabah & Sarawak,435,f
+1/12/2019,2019,Dec,Sabah & Sarawak,469,f
+1/1/2020,2020,Jan,Johor,697,f
+1/2/2020,2020,Feb,Johor,440,f
+1/3/2020,2020,Mar,Johor,504,f
+1/4/2020,2020,Apr,Johor,236,f
+1/5/2020,2020,May,Johor,237,f
+1/6/2020,2020,Jun,Johor,479,f
+1/7/2020,2020,Jul,Johor,615,f
+1/8/2020,2020,Aug,Johor,724,f
+1/9/2020,2020,Sep,Johor,697,f
+1/10/2020,2020,Oct,Johor,608,f
+1/11/2020,2020,Nov,Johor,452,f
+1/12/2020,2020,Dec,Johor,578,f
+1/1/2020,2020,Jan,Kedah & Perlis,1312,f
+1/2/2020,2020,Feb,Kedah & Perlis,457,f
+1/3/2020,2020,Mar,Kedah & Perlis,613,f
+1/4/2020,2020,Apr,Kedah & Perlis,642,f
+1/5/2020,2020,May,Kedah & Perlis,682,f
+1/6/2020,2020,Jun,Kedah & Perlis,1083,f
+1/7/2020,2020,Jul,Kedah & Perlis,876,f
+1/8/2020,2020,Aug,Kedah & Perlis,1028,f
+1/9/2020,2020,Sep,Kedah & Perlis,884,f
+1/10/2020,2020,Oct,Kedah & Perlis,805,f
+1/11/2020,2020,Nov,Kedah & Perlis,1001,f
+1/12/2020,2020,Dec,Kedah & Perlis,1122,f
+1/1/2020,2020,Jan,Kelantan & Terengganu,1755,f
+1/2/2020,2020,Feb,Kelantan & Terengganu,1318,f
+1/3/2020,2020,Mar,Kelantan & Terengganu,880,f
+1/4/2020,2020,Apr,Kelantan & Terengganu,1075,f
+1/5/2020,2020,May,Kelantan & Terengganu,863,f
+1/6/2020,2020,Jun,Kelantan & Terengganu,1170,f
+1/7/2020,2020,Jul,Kelantan & Terengganu,1498,f
+1/8/2020,2020,Aug,Kelantan & Terengganu,1600,f
+1/9/2020,2020,Sep,Kelantan & Terengganu,1653,f
+1/10/2020,2020,Oct,Kelantan & Terengganu,1376,f
+1/11/2020,2020,Nov,Kelantan & Terengganu,1046,f
+1/12/2020,2020,Dec,Kelantan & Terengganu,1124,f
+1/1/2020,2020,Jan,Melaka & Negeri Sembilan,751,f
+1/2/2020,2020,Feb,Melaka & Negeri Sembilan,593,f
+1/3/2020,2020,Mar,Melaka & Negeri Sembilan,366,f
+1/4/2020,2020,Apr,Melaka & Negeri Sembilan,207,f
+1/5/2020,2020,May,Melaka & Negeri Sembilan,275,f
+1/6/2020,2020,Jun,Melaka & Negeri Sembilan,547,f
+1/7/2020,2020,Jul,Melaka & Negeri Sembilan,616,f
+1/8/2020,2020,Aug,Melaka & Negeri Sembilan,713,f
+1/9/2020,2020,Sep,Melaka & Negeri Sembilan,623,f
+1/10/2020,2020,Oct,Melaka & Negeri Sembilan,546,f
+1/11/2020,2020,Nov,Melaka & Negeri Sembilan,308,f
+1/12/2020,2020,Dec,Melaka & Negeri Sembilan,539,f
+1/1/2020,2020,Jan,Pahang,465,f
+1/2/2020,2020,Feb,Pahang,329,f
+1/3/2020,2020,Mar,Pahang,244,f
+1/4/2020,2020,Apr,Pahang,173,f
+1/5/2020,2020,May,Pahang,197,f
+1/6/2020,2020,Jun,Pahang,376,f
+1/7/2020,2020,Jul,Pahang,443,f
+1/8/2020,2020,Aug,Pahang,416,f
+1/9/2020,2020,Sep,Pahang,398,f
+1/10/2020,2020,Oct,Pahang,407,f
+1/11/2020,2020,Nov,Pahang,257,f
+1/12/2020,2020,Dec,Pahang,389,f
+1/1/2020,2020,Jan,Perak,389,f
+1/2/2020,2020,Feb,Perak,190,f
+1/3/2020,2020,Mar,Perak,168,f
+1/4/2020,2020,Apr,Perak,171,f
+1/5/2020,2020,May,Perak,225,f
+1/6/2020,2020,Jun,Perak,380,f
+1/7/2020,2020,Jul,Perak,298,f
+1/8/2020,2020,Aug,Perak,573,f
+1/9/2020,2020,Sep,Perak,372,f
+1/10/2020,2020,Oct,Perak,363,f
+1/11/2020,2020,Nov,Perak,406,f
+1/12/2020,2020,Dec,Perak,492,f
+1/1/2020,2020,Jan,Selangor,683,f
+1/2/2020,2020,Feb,Selangor,331,f
+1/3/2020,2020,Mar,Selangor,136,f
+1/4/2020,2020,Apr,Selangor,346,f
+1/5/2020,2020,May,Selangor,450,f
+1/6/2020,2020,Jun,Selangor,663,f
+1/7/2020,2020,Jul,Selangor,622,f
+1/8/2020,2020,Aug,Selangor,662,f
+1/9/2020,2020,Sep,Selangor,433,f
+1/10/2020,2020,Oct,Selangor,566,f
+1/11/2020,2020,Nov,Selangor,275,f
+1/12/2020,2020,Dec,Selangor,382,f
+1/1/2020,2020,Jan,Sabah & Sarawak,319,f
+1/2/2020,2020,Feb,Sabah & Sarawak,385,f
+1/3/2020,2020,Mar,Sabah & Sarawak,342,f
+1/4/2020,2020,Apr,Sabah & Sarawak,223,f
+1/5/2020,2020,May,Sabah & Sarawak,316,f
+1/6/2020,2020,Jun,Sabah & Sarawak,61,f
+1/7/2020,2020,Jul,Sabah & Sarawak,250,f
+1/8/2020,2020,Aug,Sabah & Sarawak,558,f
+1/9/2020,2020,Sep,Sabah & Sarawak,485,f
+1/10/2020,2020,Oct,Sabah & Sarawak,372,f
+1/11/2020,2020,Nov,Sabah & Sarawak,482,f
+1/12/2020,2020,Dec,Sabah & Sarawak,745,f
+1/1/2021,2021,Jan,Johor,434,f
+1/2/2021,2021,Feb,Johor,415,f
+1/3/2021,2021,Mar,Johor,248,f
+1/4/2021,2021,Apr,Johor,266,f
+1/5/2021,2021,May,Johor,260,f
+1/6/2021,2021,Jun,Johor,450,f
+1/7/2021,2021,Jul,Johor,458,f
+1/8/2021,2021,Aug,Johor,434,f
+1/9/2021,2021,Sep,Johor,361,f
+1/10/2021,2021,Oct,Johor,358,f
+1/11/2021,2021,Nov,Johor,321,f
+1/12/2021,2021,Dec,Johor,357,f
+1/1/2021,2021,Jan,Kedah & Perlis,1155,f
+1/2/2021,2021,Feb,Kedah & Perlis,790,f
+1/3/2021,2021,Mar,Kedah & Perlis,350,f
+1/4/2021,2021,Apr,Kedah & Perlis,305,f
+1/5/2021,2021,May,Kedah & Perlis,482,f
+1/6/2021,2021,Jun,Kedah & Perlis,822,f
+1/7/2021,2021,Jul,Kedah & Perlis,801,f
+1/8/2021,2021,Aug,Kedah & Perlis,629,f
+1/9/2021,2021,Sep,Kedah & Perlis,813,f
+1/10/2021,2021,Oct,Kedah & Perlis,675,f
+1/11/2021,2021,Nov,Kedah & Perlis,555,f
+1/12/2021,2021,Dec,Kedah & Perlis,974,f
+1/1/2021,2021,Jan,Kelantan & Terengganu,1182,f
+1/2/2021,2021,Feb,Kelantan & Terengganu,1087,f
+1/3/2021,2021,Mar,Kelantan & Terengganu,952,f
+1/4/2021,2021,Apr,Kelantan & Terengganu,694,f
+1/5/2021,2021,May,Kelantan & Terengganu,854,f
+1/6/2021,2021,Jun,Kelantan & Terengganu,1088,f
+1/7/2021,2021,Jul,Kelantan & Terengganu,1038,f
+1/8/2021,2021,Aug,Kelantan & Terengganu,1171,f
+1/9/2021,2021,Sep,Kelantan & Terengganu,890,f
+1/10/2021,2021,Oct,Kelantan & Terengganu,1066,f
+1/11/2021,2021,Nov,Kelantan & Terengganu,794,f
+1/12/2021,2021,Dec,Kelantan & Terengganu,721,f
+1/1/2021,2021,Jan,Melaka & Negeri Sembilan,514,f
+1/2/2021,2021,Feb,Melaka & Negeri Sembilan,635,f
+1/3/2021,2021,Mar,Melaka & Negeri Sembilan,376,f
+1/4/2021,2021,Apr,Melaka & Negeri Sembilan,157,f
+1/5/2021,2021,May,Melaka & Negeri Sembilan,194,f
+1/6/2021,2021,Jun,Melaka & Negeri Sembilan,310,f
+1/7/2021,2021,Jul,Melaka & Negeri Sembilan,364,f
+1/8/2021,2021,Aug,Melaka & Negeri Sembilan,380,f
+1/9/2021,2021,Sep,Melaka & Negeri Sembilan,202,f
+1/10/2021,2021,Oct,Melaka & Negeri Sembilan,262,f
+1/11/2021,2021,Nov,Melaka & Negeri Sembilan,142,f
+1/12/2021,2021,Dec,Melaka & Negeri Sembilan,274,f
+1/1/2021,2021,Jan,Pahang,275,f
+1/2/2021,2021,Feb,Pahang,360,f
+1/3/2021,2021,Mar,Pahang,165,f
+1/4/2021,2021,Apr,Pahang,145,f
+1/5/2021,2021,May,Pahang,198,f
+1/6/2021,2021,Jun,Pahang,411,f
+1/7/2021,2021,Jul,Pahang,333,f
+1/8/2021,2021,Aug,Pahang,292,f
+1/9/2021,2021,Sep,Pahang,273,f
+1/10/2021,2021,Oct,Pahang,318,f
+1/11/2021,2021,Nov,Pahang,235,f
+1/12/2021,2021,Dec,Pahang,261,f
+1/1/2021,2021,Jan,Perak,630,f
+1/2/2021,2021,Feb,Perak,328,f
+1/3/2021,2021,Mar,Perak,284,f
+1/4/2021,2021,Apr,Perak,274,f
+1/5/2021,2021,May,Perak,294,f
+1/6/2021,2021,Jun,Perak,426,f
+1/7/2021,2021,Jul,Perak,478,f
+1/8/2021,2021,Aug,Perak,544,f
+1/9/2021,2021,Sep,Perak,356,f
+1/10/2021,2021,Oct,Perak,508,f
+1/11/2021,2021,Nov,Perak,439,f
+1/12/2021,2021,Dec,Perak,520,f
+1/1/2021,2021,Jan,Selangor,547,f
+1/2/2021,2021,Feb,Selangor,435,f
+1/3/2021,2021,Mar,Selangor,235,f
+1/4/2021,2021,Apr,Selangor,295,f
+1/5/2021,2021,May,Selangor,266,f
+1/6/2021,2021,Jun,Selangor,558,f
+1/7/2021,2021,Jul,Selangor,536,f
+1/8/2021,2021,Aug,Selangor,204,f
+1/9/2021,2021,Sep,Selangor,367,f
+1/10/2021,2021,Oct,Selangor,375,f
+1/11/2021,2021,Nov,Selangor,291,f
+1/12/2021,2021,Dec,Selangor,238,f
+1/1/2021,2021,Jan,Sabah & Sarawak,575,f
+1/2/2021,2021,Feb,Sabah & Sarawak,488,f
+1/3/2021,2021,Mar,Sabah & Sarawak,551,f
+1/4/2021,2021,Apr,Sabah & Sarawak,293,f
+1/5/2021,2021,May,Sabah & Sarawak,28,f
+1/6/2021,2021,Jun,Sabah & Sarawak,147,f
+1/7/2021,2021,Jul,Sabah & Sarawak,361,f
+1/8/2021,2021,Aug,Sabah & Sarawak,298,f
+1/9/2021,2021,Sep,Sabah & Sarawak,454,f
+1/10/2021,2021,Oct,Sabah & Sarawak,524,f
+1/11/2021,2021,Nov,Sabah & Sarawak,445,f
+1/12/2021,2021,Dec,Sabah & Sarawak,429,f
+1/1/2022,2022,Jan,Johor,473,f
+1/2/2022,2022,Feb,Johor,334,f
+1/3/2022,2022,Mar,Johor,289,f
+1/4/2022,2022,Apr,Johor,221,f
+1/5/2022,2022,May,Johor,295,f
+1/6/2022,2022,Jun,Johor,353,f
+1/7/2022,2022,Jul,Johor,370,f
+1/8/2022,2022,Aug,Johor,342,f
+1/1/2022,2022,Jan,Kedah & Perlis,980,f
+1/2/2022,2022,Feb,Kedah & Perlis,306,f
+1/3/2022,2022,Mar,Kedah & Perlis,195,f
+1/4/2022,2022,Apr,Kedah & Perlis,241,f
+1/5/2022,2022,May,Kedah & Perlis,424,f
+1/6/2022,2022,Jun,Kedah & Perlis,572,f
+1/7/2022,2022,Jul,Kedah & Perlis,719,f
+1/8/2022,2022,Aug,Kedah & Perlis,763,f
+1/1/2022,2022,Jan,Kelantan & Terengganu,1159,f
+1/2/2022,2022,Feb,Kelantan & Terengganu,799,f
+1/3/2022,2022,Mar,Kelantan & Terengganu,898,f
+1/4/2022,2022,Apr,Kelantan & Terengganu,843,f
+1/5/2022,2022,May,Kelantan & Terengganu,1219,f
+1/6/2022,2022,Jun,Kelantan & Terengganu,1166,f
+1/7/2022,2022,Jul,Kelantan & Terengganu,1354,f
+1/8/2022,2022,Aug,Kelantan & Terengganu,1568,f
+1/1/2022,2022,Jan,Melaka & Negeri Sembilan,248,f
+1/2/2022,2022,Feb,Melaka & Negeri Sembilan,174,f
+1/3/2022,2022,Mar,Melaka & Negeri Sembilan,132,f
+1/4/2022,2022,Apr,Melaka & Negeri Sembilan,90,f
+1/5/2022,2022,May,Melaka & Negeri Sembilan,118,f
+1/6/2022,2022,Jun,Melaka & Negeri Sembilan,189,f
+1/7/2022,2022,Jul,Melaka & Negeri Sembilan,228,f
+1/8/2022,2022,Aug,Melaka & Negeri Sembilan,189,f
+1/1/2022,2022,Jan,Pahang,688,f
+1/2/2022,2022,Feb,Pahang,759,f
+1/3/2022,2022,Mar,Pahang,416,f
+1/4/2022,2022,Apr,Pahang,255,f
+1/5/2022,2022,May,Pahang,502,f
+1/6/2022,2022,Jun,Pahang,667,f
+1/7/2022,2022,Jul,Pahang,765,f
+1/8/2022,2022,Aug,Pahang,619,f
+1/1/2022,2022,Jan,Perak,1347,f
+1/2/2022,2022,Feb,Perak,779,f
+1/3/2022,2022,Mar,Perak,828,f
+1/4/2022,2022,Apr,Perak,697,f
+1/5/2022,2022,May,Perak,755,f
+1/6/2022,2022,Jun,Perak,725,f
+1/7/2022,2022,Jul,Perak,429,f
+1/8/2022,2022,Aug,Perak,474,f
+1/1/2022,2022,Jan,Selangor,208,f
+1/2/2022,2022,Feb,Selangor,160,f
+1/3/2022,2022,Mar,Selangor,92,f
+1/4/2022,2022,Apr,Selangor,133,f
+1/5/2022,2022,May,Selangor,150,f
+1/6/2022,2022,Jun,Selangor,139,f
+1/7/2022,2022,Jul,Selangor,146,f
+1/8/2022,2022,Aug,Selangor,187,f
+1/1/2022,2022,Jan,Sabah & Sarawak,313,f
+1/2/2022,2022,Feb,Sabah & Sarawak,288,f
+1/3/2022,2022,Mar,Sabah & Sarawak,412,f
+1/4/2022,2022,Apr,Sabah & Sarawak,195,f
+1/5/2022,2022,May,Sabah & Sarawak,51,f
+1/6/2022,2022,Jun,Sabah & Sarawak,211,f
+1/7/2022,2022,Jul,Sabah & Sarawak,361,f
+1/8/2022,2022,Aug,Sabah & Sarawak,401,f
+1/9/2022,2022,Sep,Johor,361,f
+1/9/2022,2022,Sep,Kedah & Perlis,715,f
+1/9/2022,2022,Sep,Kelantan & Terengganu,1370,f
+1/9/2022,2022,Sep,Melaka & Negeri Sembilan,201,f
+1/9/2022,2022,Sep,Pahang,665,f
+1/9/2022,2022,Sep,Perak,497,f
+1/9/2022,2022,Sep,Selangor,182,f
+1/9/2022,2022,Sep,Sabah & Sarawak,401,f
+1/10/2022,2022,Oct,Johor,273,f
+1/10/2022,2022,Oct,Kedah & Perlis,475,f
+1/10/2022,2022,Oct,Kelantan & Terengganu,1393,f
+1/10/2022,2022,Oct,Melaka & Negeri Sembilan,175,f
+1/10/2022,2022,Oct,Pahang,551,f
+1/10/2022,2022,Oct,Perak,440,f
+1/10/2022,2022,Oct,Selangor,104,f
+1/10/2022,2022,Oct,Sabah & Sarawak,457,f
+1/11/2022,2022,Nov,Johor,305,f
+1/11/2022,2022,Nov,Kedah & Perlis,564,f
+1/11/2022,2022,Nov,Kelantan & Terengganu,1218,f
+1/11/2022,2022,Nov,Melaka & Negeri Sembilan,136,f
+1/11/2022,2022,Nov,Pahang,469,f
+1/11/2022,2022,Nov,Perak,419,f
+1/11/2022,2022,Nov,Selangor,91,f
+1/11/2022,2022,Nov,Sabah & Sarawak,392,f
+1/12/2022,2022,Dec,Johor,378,f
+1/12/2022,2022,Dec,Kedah & Perlis,711,f
+1/12/2022,2022,Dec,Kelantan & Terengganu,1172,f
+1/12/2022,2022,Dec,Melaka & Negeri Sembilan,189,f
+1/12/2022,2022,Dec,Pahang,659,f
+1/12/2022,2022,Dec,Perak,411,f
+1/12/2022,2022,Dec,Selangor,135,f
+1/12/2022,2022,Dec,Sabah & Sarawak,434,f
+1/1/2023,2023,Jan,Johor,369,f
+1/1/2023,2023,Jan,Kedah & Perlis,768,f
+1/1/2023,2023,Jan,Kelantan & Terengganu,1533,f
+1/1/2023,2023,Jan,Melaka & Negeri Sembilan,200,f
+1/1/2023,2023,Jan,Pahang,778,f
+1/1/2023,2023,Jan,Perak,662,f
+1/1/2023,2023,Jan,Selangor,153,f
+1/1/2023,2023,Jan,Sabah & Sarawak,198,f
+1/2/2023,2023,Feb,Johor,344,f
+1/2/2023,2023,Feb,Kedah & Perlis,396,f
+1/2/2023,2023,Feb,Kelantan & Terengganu,1333,f
+1/2/2023,2023,Feb,Melaka & Negeri Sembilan,192,f
+1/2/2023,2023,Feb,Pahang,532,f
+1/2/2023,2023,Feb,Perak,185,f
+1/2/2023,2023,Feb,Selangor,196,f
+1/2/2023,2023,Feb,Sabah & Sarawak,286,f
+1/3/2023,2023,Mar,Johor,230,f
+1/3/2023,2023,Mar,Kedah & Perlis,281,f
+1/3/2023,2023,Mar,Kelantan & Terengganu,1234,f
+1/3/2023,2023,Mar,Melaka & Negeri Sembilan,138,f
+1/3/2023,2023,Mar,Pahang,786,f
+1/3/2023,2023,Mar,Perak,203,f
+1/3/2023,2023,Mar,Selangor,188,f
+1/3/2023,2023,Mar,Sabah & Sarawak,195,f
+1/4/2023,2023,Apr,Johor,243,f
+1/4/2023,2023,Apr,Kedah & Perlis,268,f
+1/4/2023,2023,Apr,Kelantan & Terengganu,1161,f
+1/4/2023,2023,Apr,Melaka & Negeri Sembilan,111,f
+1/4/2023,2023,Apr,Pahang,634,f
+1/4/2023,2023,Apr,Perak,196,f
+1/4/2023,2023,Apr,Selangor,197,f
+1/4/2023,2023,Apr,Sabah & Sarawak,75,f
+1/5/2023,2023,May,Johor,324,f
+1/5/2023,2023,May,Kedah & Perlis,373,f
+1/5/2023,2023,May,Kelantan & Terengganu,"1,197",f
+1/5/2023,2023,May,Melaka & Negeri Sembilan,128,f
+1/5/2023,2023,May,Pahang,854,f
+1/5/2023,2023,May,Perak,237,f
+1/5/2023,2023,May,Selangor,187,f
+1/5/2023,2023,May,Sabah & Sarawak,136,f
+1/6/2023,2023,Jun,Johor,412,f
+1/6/2023,2023,Jun,Kedah & Perlis,553,f
+1/6/2023,2023,Jun,Kelantan & Terengganu,"1,356",f
+1/6/2023,2023,Jun,Melaka & Negeri Sembilan,207,f
+1/6/2023,2023,Jun,Pahang,916,f
+1/6/2023,2023,Jun,Perak,333,f
+1/6/2023,2023,Jun,Selangor,237,f
+1/6/2023,2023,Jun,Sabah & Sarawak,194,f
+1/7/2023,2023,Jul,Johor,445,p
+1/7/2023,2023,Jul,Kedah & Perlis,587,p
+1/7/2023,2023,Jul,Kelantan & Terengganu,"1,825",p
+1/7/2023,2023,Jul,Melaka & Negeri Sembilan,176,p
+1/7/2023,2023,Jul,Pahang,"1,108",p
+1/7/2023,2023,Jul,Perak,308,p
+1/7/2023,2023,Jul,Selangor,239,p
+1/7/2023,2023,Jul,Sabah & Sarawak,316,p
