@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommendation Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px; /* Adjust the maximum width as needed */
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333333;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #666666;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .button-group {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .search-input {
+            width: 300px;
+            padding: 8px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-right: 10px;
+        }
+
+        .search-button,
+        .clear-button,
+        .addBuddyButton {
+            padding: 8px 16px;
+            background-color: #ff7300;
+            color: #ffffff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .search-button:hover,
+        .clear-button:hover,
+        .addBuddyButton:hover {
+            background-color: #d16711;
+        }
+
+        .sort-icon {
+            cursor: pointer;
+            fill: #999999;
+            margin-left: 5px;
+        }
+
+        .popup-container {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 4px;
+            z-index: 9999;
+        }
+
+        .popup-message {
+            margin-bottom: 10px;
+        }
+
+        .close-button {
+            background-color: #ff7300;
+            color: #ffffff;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .addBuddyButton {
+            margin-left: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            font-size: 16px; /* Set the font size for table cells */
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+
+        .buddy {
+            text-align: center;
+        }
+
+        .backButton {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ee8712;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        .backButton:hover {
+            background-color: #ff7300;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Athlete Buddies Recommendation</h1>
+        
+        <!-- Search bar -->
+        <div class="button-group">
+            <input type="text" class="search-input" placeholder="Search...">
+            <button class="search-button">Search</button>
+            <button class="clear-button">Clear</button>
+        </div>
+
+        <table id="recommendationResults">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0)">Name <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(1)">Gender <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(2)">Age <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(3)">Sports <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(4)">Rating <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(5)">State <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(6)">Athlete <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th onclick="sortTable(7)">Time <svg class="sort-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                        <path d="M6 0L10 5H2L6 0zM6 12L2 7H10L6 12z" /></svg></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="recommendationTableBody">
+                {% for buddy in results %}
+                <tr>
+                    <td>{{ buddy['Name'] }}</td>
+                    <td>{{ buddy['Gender'] }}</td>
+                    <td>{{ buddy['Age'] }}</td>
+                    <td>{{ buddy['Sports'] }}</td>
+                    <td>{{ buddy['rating'] }}</td>
+                    <td>{{ buddy['State'] }}</td>
+                    <td>{{ buddy['Athlete'] }}</td>
+                    <td>{{ buddy['Time'] }}</td>
+                    <td>
+                        <button class="addBuddyButton" data-name="{{ buddy['Name'] }}">Match</button>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <a href="{{ url_for('home') }}" class="backButton">Back to Homepage</a>
+    </div>
+
+    <script>
+        // Display recommendation results
+        function displayResults(results) {
+            var tableBody = document.getElementById('recommendationTableBody');
+            tableBody.innerHTML = '';
+
+            if (results.length === 0) {
+                tableBody.innerHTML = '<tr><td colspan="6">No results found.</td></tr>';
+                return;
+            }
+
+            results.forEach(function(buddy) {
+                var row = document.createElement('tr');
+                row.innerHTML = '<td>' + buddy.Name + '</td>' +
+                    '<td>' + buddy.Gender + '</td>' +
+                    '<td>' + buddy.Age + '</td>' +
+                    '<td>' + buddy.Sports + '</td>' +
+                    '<td>' + buddy.rating + '</td>' +
+                    '<td>' + buddy.State + '</td>' +
+                    '<td>' + buddy['Athlete'] + '</td>' +
+                    '<td>' + buddy['Time'] + '</td>';
+                tableBody.appendChild(row);
+            });
+        }
+
+        var sortDirection = {}; // Track the sort direction for each column
+
+        // Sorting function
+        function sortTable(columnIndex) {
+            var table, rows, switching, i, x, y, shouldSwitch;
+            table = document.getElementById('recommendationResults');
+            switching = true;
+            shouldSwitch = false;
+
+            // Determine the sort direction
+            sortDirection[columnIndex] = sortDirection[columnIndex] === 'asc' ? 'desc' : 'asc';
+
+            while (switching) {
+                switching = false;
+                rows = table.rows;
+
+                for (i = 1; i < (rows.length - 1); i++) {
+                    x = rows[i].getElementsByTagName('TD')[columnIndex];
+                    y = rows[i + 1].getElementsByTagName('TD')[columnIndex];
+
+                    if (sortDirection[columnIndex] === 'asc') {
+                        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    } else if (sortDirection[columnIndex] === 'desc') {
+                        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    }
+                }
+
+                if (shouldSwitch) {
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                }
+            }
+        }
+
+        // Add event listener to the sort icons
+        var sortIcons = document.getElementsByClassName('sort-icon');
+        for (var i = 0; i < sortIcons.length; i++) {
+            sortIcons[i].addEventListener('click', function () {
+                var columnIndex = this.parentElement.cellIndex;
+                sortTable(columnIndex);
+            });
+        }
+
+        // Add event listener to the search button
+        document.querySelector('.search-button').addEventListener('click', function() {
+            var input = document.querySelector('.search-input');
+            var keyword = input.value.toLowerCase();
+
+            var rows = document.querySelectorAll('#recommendationTableBody tr');
+            rows.forEach(function(row) {
+                var found = false;
+                row.querySelectorAll('td').forEach(function(cell) {
+                    var text = cell.textContent.toLowerCase();
+                    if (text.includes(keyword)) {
+                        found = true;
+                    }
+                });
+
+                if (found) {
+                    row.style.display = 'table-row';
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+        });
+
+        // Add event listener to the "Add Buddy" buttons
+        var addBuddyButtons = document.querySelectorAll('.addBuddyButton');
+        addBuddyButtons.forEach(function(button) {
+            button.addEventListener('click', function() {
+                var buddyName = this.getAttribute('data-name');
+                var message = buddyName + ' has been added to your Buddies List!';
+                showPopUpMessage(message);
+            });
+        });
+
+        // Function to show the pop-up message
+        function showPopUpMessage(message) {
+            var popupContainer = document.createElement('div');
+            popupContainer.classList.add('popup-container');
+
+            var popupMessage = document.createElement('div');
+            popupMessage.classList.add('popup-message');
+            popupMessage.textContent = message;
+
+            var closeButton = document.createElement('button');
+            closeButton.classList.add('close-button');
+            closeButton.textContent = 'Close';
+            closeButton.addEventListener('click', function() {
+                popupContainer.remove();
+            });
+
+            popupContainer.appendChild(popupMessage);
+            popupContainer.appendChild(closeButton);
+            document.body.appendChild(popupContainer);
+        }
+
+        // Add event listener to the "Clear" button
+        document.querySelector('.clear-button').addEventListener('click', function() {
+            // Reload the page to reset the search and sorting
+            location.reload();
+        });
+
+    </script>
+</body>
+
+</html>
